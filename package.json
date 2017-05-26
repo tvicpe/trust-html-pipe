@@ -1,0 +1,47 @@
+{
+  "name": "trust-html-pipe",
+  "version": "0.0.1",
+  "description": "Pipe for angular2 projects which allows you to inject the HTML content into your templates.",
+  "main": "src/trust-html.pipe.ts",
+  "author": {
+    "name": "tvicpe",
+    "email": "tv@tomsa.md",
+    "url": "https://github.com/tvicpe"
+  },
+  "repository": "tvicpe/trust-html-pipe",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/tvicpe/trust-html-pipe/blob/master/LICENSE"
+    }
+  ],
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
+  },
+  "keywords": [
+    "trust-html",
+    "trustHtml",
+    "inject",
+    "html",
+    "trust",
+    "angular",
+    "angular2",
+    "pipe",
+    "trust-html-pipe",
+    "trustHtmlPipe"
+  ],
+  "dependencies": {
+    "@angular/core": "^4.0.0",
+    "@angular/platform-browser": "^4.0.0"
+  },
+  "devDependencies": {
+    "ts-node": "~2.0.0",
+    "tslint": "~4.5.0",
+    "typescript": "~2.2.0"
+  }
+}
