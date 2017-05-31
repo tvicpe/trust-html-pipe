@@ -67,4 +67,4 @@ Method returns the intact HTML string.
 [https://github.com/tvicpe/trust-html-pipe](https://github.com/tvicpe/trust-html-pipe)
 
 ### <a name="version"></a>6. Version
-0.0.3
+0.0.4
