@@ -1,6 +1,6 @@
 {
   "name": "trust-html-pipe",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Pipe for angular2 projects which allows you to inject non-escaped HTML content into your templates.",
   "main": "src/trust-html.pipe.ts",
   "types": "index.d.ts",
